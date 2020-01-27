@@ -1,0 +1,17 @@
+E:\Tushar Upadhyay\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.exe
+E:\Tushar Upadhyay\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.deps.json
+E:\Tushar Upadhyay\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.json
+E:\Tushar Upadhyay\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.runtimeconfig.dev.json
+E:\Tushar Upadhyay\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.dll
+E:\Tushar Upadhyay\WpfApp1\WpfApp1\bin\Debug\netcoreapp3.1\WpfApp1.pdb
+E:\Tushar Upadhyay\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.csprojAssemblyReference.cache
+E:\Tushar Upadhyay\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\Tushar Upadhyay\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\App.g.cs
+E:\Tushar Upadhyay\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.cache
+E:\Tushar Upadhyay\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1_MarkupCompile.lref
+E:\Tushar Upadhyay\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\Tushar Upadhyay\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.g.resources
+E:\Tushar Upadhyay\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfoInputs.cache
+E:\Tushar Upadhyay\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.AssemblyInfo.cs
+E:\Tushar Upadhyay\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.dll
+E:\Tushar Upadhyay\WpfApp1\WpfApp1\obj\Debug\netcoreapp3.1\WpfApp1.pdb
